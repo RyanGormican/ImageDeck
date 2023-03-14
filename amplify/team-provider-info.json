@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-imagedeck-dev-15722-authRole",
+      "UnauthRoleArn": "arn:aws:iam::718783961868:role/amplify-imagedeck-dev-15722-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::718783961868:role/amplify-imagedeck-dev-15722-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-imagedeck-dev-15722-deployment",
+      "UnauthRoleName": "amplify-imagedeck-dev-15722-unauthRole",
+      "StackName": "amplify-imagedeck-dev-15722",
+      "StackId": "arn:aws:cloudformation:ca-central-1:718783961868:stack/amplify-imagedeck-dev-15722/da5af0e0-c23d-11ed-99cf-0e523bfce40c",
+      "AmplifyAppId": "d3syiu40vb6lmn"
+    }
+  }
+}
