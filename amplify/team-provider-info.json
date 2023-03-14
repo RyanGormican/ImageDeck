@@ -10,6 +10,11 @@
       "StackName": "amplify-imagedeck-dev-15722",
       "StackId": "arn:aws:cloudformation:ca-central-1:718783961868:stack/amplify-imagedeck-dev-15722/da5af0e0-c23d-11ed-99cf-0e523bfce40c",
       "AmplifyAppId": "d3syiu40vb6lmn"
+    },
+    "categories": {
+      "auth": {
+        "imagedeck429122bb": {}
+      }
     }
   }
 }
